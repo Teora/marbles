@@ -175,15 +175,12 @@ Marbles의 작동 방식에 대해 이야기하기 전에 Hyperleder Fabric의 �
 
 **Blocks** - 블록에는 무결성을 확인하기 위한 트랜잭션과 해시(hash)가 포함되어 있습니다.
 
-**Transactions** or **Proposals** - These represent interactions to the blockchain ledger. A read or write request of the ledger is sent as a transaction/proposal.
 **Transactions** or **Proposals** - 블록체인의 원장에 대한 상호 작용을 나타냅니다. 원장의 읽기 또는 쓰기 요청은 트랜잭션 또는 제안의 형태로 보내집니다.
 
 **Ledger** - Peer가 블록체인에서 사용하는 저장소(storage)입니다. 여기에는 트랜잭션 파라미터와 key/value 쌍으로 구성된 실제 블록 데이터가 포함됩니다. 원장(Ledger)은 체인코드에 의해 기록됩니다.
 
-**Chaincode** - Chaincode is Hyperledger Fabric speak for smart contracts. It defines the assets and all rules about assets.
 **Chaincode** - 체인코드는 스마트 컨트랙트를 Hyperledger Fabric에서 칭하는 용어입니다. 자산(assets) 및 자산과 관련된 모든 규칙을 정의합니다.
 
-**Assets** - An asset is an entity that exists in the ledger. It’s a key value pair. In the context of marbles this is a marble, or a marble owner.
 **Assets** - 자산은 원장이 가지는 가치 또는 실체(entity)입니다. key/value 쌍으로 이뤄져 있으며, marbles 예제에서 자산은 구슬(marble) 또는 구슬의 소유자입니다.
 
 그럼 새로운 구슬이 만들어질 때 동작하는 과정을 살펴봅시다.
