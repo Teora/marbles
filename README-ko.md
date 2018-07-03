@@ -558,7 +558,7 @@ Specifically:
 - 당신을 고통받게 한 부분이 있었나요?
 - 어느부분이 당신에게 멘붕(existential crisis)을 주었고, 혼란하게 만들었나요?
 
-개선점과 버그, 또는 고통 받게한 부분은 [GitHub Issues](https://github.com/IBM-Blockchain/marbles/issues) 섹션을 통해 커뮤니케이션합니다.
+개선점과 버그, 또는 당신을 고통 받게한 부분은 [GitHub Issues](https://github.com/IBM-Blockchain/marbles/issues) 섹션을 통해 커뮤니케이션합니다.
 
 # Contribute
 이 데모의 개선에 기여를 원하신다면 [contributing guide](./CONTRIBUTING.md)를 확인해주세요.
