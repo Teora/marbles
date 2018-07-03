@@ -2,9 +2,9 @@
 # Marbles Demo
 
 ## 예제 소개
-- 이 애플리케이션은 Linux Foundation 프로젝트 [Hyperledger Fabric](https://github.com/hyperledger/fabric/tree/master/docs) 네트워크를 기반으로 한 예제입니다. Hyperledger Fabric에 대한 이해가 필요하다면 아래에 추가되는 지침(instructions)들을 확인하세요.
+- 이 애플리케이션은 Linux Foundation 프로젝트 [Hyperledger Fabric](https://github.com/hyperledger/fabric/tree/master/docs) 네트워크를 기반으로 한 예제입니다. Hyperledger Fabric에 대한 이해가 필요하다면 아래에 별첨되는 지침(instructions)들을 확인하세요.
 - **이 데모는 개발자가 Fabric 네트워크를 이용하여 체인코드와 앱 개발의 기본을 배울 수 있도록 도와 줍니다.**
-- 이 예제는 `매우 단순하게` 자산이 이동하는 것을 시연한 데모이며, 여러 사용자가 서로 자산(marbles)을 만들어 전달할 수 있습니다.
+- 이 예제는 `매우 단순하게` 자산(asset, 예제에서는 marble)이 이동하는 것을 시연한 데모이며, 여러 사용자가 서로 자산을 만들어 전달할 수 있습니다.
 
 	![](/doc_images/marbles-peek.gif)
 
