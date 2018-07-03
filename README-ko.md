@@ -1,4 +1,4 @@
-*Read this in other languages: [English](README.md), [中国](README-cn.md)
+*Read this in other languages: [English](README.md), [中国](README-cn.md), [português](README-pt.md)
 # Marbles Demo
 
 ## 예제 소개
@@ -533,14 +533,17 @@ __/public/js/ui_building.js__
 네, 끝입니다! 구슬을 옮기면서 즐거운 시간 보내셨기를 바랍니다.
 
 # Marbles FAQs
-Do you have questions about _why_ something in marbles is the way it is?  Or _how_ to do something? Check out the [FAQ](./docs/faq.md) .
+marbles에 대해 궁금한점이 있으면 [FAQ](./docs/faq.md)를 확인해주세요.
 
 # Feedback
-I'm very interested in your feedback.
+피드백은 언제나 환영합니다.
 This is a demo built for people like you, and it will continue to be shaped for people like you.
 On a scale of no-anesthetic-root-canal to basket of puppies, how was it?
 If you have any ideas on how to improve the demo/tutorial, please reach out!
 Specifically:
+이 데모는 여러분과 같은 사람들을 위해 만들어진 데모입니다. 그리고 계속해서 개선될 것입니다.
+데모에 개선할 수 있는 방법이 있으면 손을 뻗어 도와주세요!
+구체적인 내용은 아래와 같습니다:
 
 - Did the format of the readme work well for you?
 - At which points did you get lost?
@@ -548,11 +551,17 @@ Specifically:
 - Did your knowledge grow by the end of the tutorial?
 - Was something particularly painful?
 - Did it make you have an existential crisis and you are suddenly unsure of what it means to be, you?
+- readme 양식이 괜찮았나요?
+- 진행에 막힌 부분이 있었나요?
+- 링크나 이미지가 누락된 것이 있나요?
+- 튜토리얼이 마칠때쯤 학습에 도움이 되었나요?
+- 당신을 고통받게 한 부분이 있었나요?
+- 어느부분이 당신에게 멘붕(existential crisis)을 주었고, 혼란하게 만들었나요?
 
-Use the [GitHub Issues](https://github.com/IBM-Blockchain/marbles/issues) section to communicate any improvements/bugs and pain points!
+개선점과 버그, 또는 고통 받게한 부분은 [GitHub Issues](https://github.com/IBM-Blockchain/marbles/issues) 섹션을 통해 커뮤니케이션합니다.
 
 # Contribute
-If you want to help improve the demo check out the [contributing guide](./CONTRIBUTING.md)
+이 데모의 개선에 기여를 원하신다면 [contributing guide](./CONTRIBUTING.md)를 확인해주세요.
 
 # License
 [Apache 2.0](LICENSE)
